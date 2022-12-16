@@ -6,4 +6,4 @@ How to create a simple Node.js server:
 - Clone or download this repository
 - With CLI, go to folder where you cloned
 - Write ```npm start```
-- Access *http:your-local-host-ip:1337/* in your favorite web browser
+- Access **http:your-local-host-ip:1337/** in your favorite web browser
